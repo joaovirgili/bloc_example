@@ -12,7 +12,7 @@ This project was made utilizing
 We have two buttons which each one increment a label in a different way: SetState and BLOC.
 A print function is called in Home's build function.
 
-Notice that everytime you click in SetState button, the widget was built again and the print is called.
+Notice that everytime you click in SetState button, the widget is built again and the print is called.
 On the otherhand, when using the BLOC button it doesn't occurs. 
 
 ## Conclusion
