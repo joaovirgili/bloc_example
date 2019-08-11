@@ -16,7 +16,7 @@ Notice that everytime you click in SetState button, the widget was built again a
 On the otherhand, when using the BLOC button it doesn't occurs. 
 
 ## Conclusion
-That's why most (not all) of the times BLOC should be used: Widgets dont' rebuild everytime an state is changed.
+That's why most (not all) of the times BLOC should be used: Widgets don't rebuild everytime state changes.
 
 ## Getting Started
 
